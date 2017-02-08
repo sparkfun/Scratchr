@@ -7,7 +7,7 @@ A simple 3D-printed rotary machine compatible with sterile, single-use tattoo tu
 
 ###Video
 
-[insert video link]
+https://www.youtube.com/watch?v=zH0wBKlpYQk
 
 ###Parts Wishlist
 
